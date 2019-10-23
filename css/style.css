@@ -7,7 +7,7 @@
 
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -232,7 +232,7 @@ figure {
 
 #colorlib-hero {
   min-height: 500px;
-  background: #fff url(../images/loader.gif) no-repeat center center;
+  background: #fff no-repeat center center;
   width: 100%;
   float: left;
   margin-bottom: 10em;
@@ -295,6 +295,8 @@ figure {
           padding: 0;
           color: black;
           font-family: "Playfair Display", Georgia, serif; }
+        #colorlib-hero .flexslider .slider-text > .slider-text-inner .white-color h1, #colorlib-hero .flexslider .slider-text > .slider-text-inner .white-color h2 {
+          color: white;}
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin-bottom: 20px;
           font-size: 60px;
@@ -334,6 +336,10 @@ figure {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
             color: #000;
             border: 1px solid #000;
+            background: transparent !important; }
+          #colorlib-hero .flexslider .slider-text > .slider-text-inner .white-color .btn.btn-learn {
+            color: #fff;
+            border: 1px solid #fff;
             background: transparent !important; }
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
               background: transparent !important;
@@ -1427,3 +1433,8 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+/* modify by Krace */
+.white-color {
+  color: white;
+}
