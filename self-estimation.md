@@ -1,0 +1,147 @@
+# 自評等級 (Self-evaluation Level)
+- L1 - 極不熟悉 (Very unfamiliar)
+- L2 - 不太熟悉 (unfamiliar)
+- L3 - 稍有經驗 (Some experience)
+- L4 - 略為熟悉 (familiar)
+- L5 - 相當熟悉 (very familiar)
+
+# 工作角色 (As a job character)
+- 後端 (Backend) - L5
+  - 資料結構 & 演算法 (Data structure & Algorithm) - L4
+    - CPE - A級, 進階 (Class A)
+    - Leetcode - 中階以上 (100~200 problems up solved)
+  - 知識概念 (Knowledge & Concept) - L4
+    - 物件導向設計 (Object-Oriented Programming - OOP)
+    - 面相切面設計 (Aspect-Oriented Programming - AOP)
+    - 函式化設計 (Functional programming)
+    - 設計模式 (Design Pattern)
+    - 物件關聯映射 (Object Relational Mapping - ORM)
+    - 單元及整合測試 (Unittest, Integration Test)
+    - 多執行緒 (Multi-Thread) - L3
+    - 交易事務, 資料鎖 (Transaction, data lock)
+    - MVC design
+    - RESTful Api
+    - Websocket with STOMP - L3
+  - 分散式設計 (Distributed design) - L3
+    - 微服務 (Microservice)
+    - 容器化 (Containeratize)
+    - 負載平衡 (Load balancing)
+    - 副本&叢集 (Replication & Cluster)
+    - 訊息佇列 (Message queue)
+  - 通訊協定 (Network protocol) - L4
+    - HTTP, TCP, UDP
+  - 資安 (Security) - L3
+    - 漏洞偵測修補 - CVE, CWE (vulnerabilities fix - CVE, CWE)
+    - 框架套件升級 (framework, package update)
+  - 語言&框架 (Language & Framework)
+    - Python - L4
+      - Flask
+      - Django
+    - PHP - L4
+      - Laravel
+      - CodeIgniter
+    - Java - L3
+      - Spring boot
+    - Javascript - L2
+      - Nodejs - express
+    - C# - L2
+      - ASP.Net
+      - C/C++ -  L2
+  - 伺服器 (Server)
+    - Apache, Nginx, Tomcat, IIS
+  - 其他 (Other) - L3
+    - Git,  - L4
+    - Docker
+    - Swagger
+    - Kafaka, RocketMQ, RabbitMQ
+    - Slack, Trello
+    - IntelliJ IDEA, PyCharm, Sublime
+- 前端 (Frontend) - L2
+  - 知識概念 (Knowledge & Concept) - L3
+     - HTML, CSS, JS
+  - 框架 (Framework)
+     - Bootstrap, JQuery, Vue
+- 資料庫管理師 (Database administrator) L3
+  - 概念知識 (Knowledge & Concept)
+     - 交易事務, 鎖 (Transaction, Lock)
+  - 優化 (Optimization)
+     - 慢查詢分析 (Slow query analysis)
+     - SQL語句優化 (SQL optimization)
+     - 索引建立 (Indexes)
+  - 設計 (Design)
+     - 資料表設計 (Schema design)
+     - ER模型建立 (Entity-relationship model)
+     - 函數, 預存程序設計 (Function, store procedure)
+     - 報表建立 (Build report)
+  - 查修 (Troubleshooting)
+     - 復歸異常資料 (Fix incorrect data)
+     - 運行異常處理 (Solve unusual event)
+  - 備份 (Backup)
+     - 備份計畫建立 (Backup plan)
+  - 資料庫類型 (Database product)
+    - Mysql - L4
+    - PostgreSQl
+    - MSSQL - L1
+    - MongoDB
+    - Redis
+  - 分散式建置 (Distributed build) 
+    - Mysql - ndb, ndb management, sql api - L2
+    - MongoDB - replica set, cluster
+    - Redis - replication, cluster
+- 維運 (DevOps, SRE) - L3
+  - 知識概念 (Knowledge & Concept)
+    - Troubleshooting
+    - Monitor
+    - Alert notification
+    - Backup
+    - Cron
+  - 雲端基礎設施 (Cloud infra service)
+    - AWS
+    - GCP - L2
+    - Azure - L2
+  - 持續整合部屬框架平台 (CI/CD Platform & Tool)
+    - GitHub, GitLab, Bitbucket
+    - Docker
+    - Kubernetes
+    - Prometheus - L2
+    - Grafana - L2
+    - ELK (Elasticsearch, Logstash, Kibana)  - L2
+- MIS/IT - L3
+  - 基本知識 (Basic knowledge) L4
+    - 修過CCNA課程 (CCNA study)
+  - 資安 (Security)
+    - 基礎密碼學 - basic cryptography
+    - 權限控管 - privilege control
+    - 網站滲透測試 - Web penetration test - L2
+  - 工具 (Tool)
+    - Wireshark - L2
+    - VMware, Virtual box
+    - Putty, Bash shell
+    - Kali linux - L2
+- 測試 (QA/QC) - L2
+  - 實務經驗 (experience)
+    - 測試報告文件撰寫 (Test report)
+    - 商業邏輯案例測試建置 (Business logic case)
+    - 系統整合測試 (System integration test) - L3
+    - 客戶端體驗測試 (User acceptance test)
+    - 壓力測試 (Stress test)
+
+# 其他經驗 (Other experience)
+- 應用程式 (Application)
+  - Android & Java - L3
+  - iOS & Swift - L1
+  - Unity & C# script - L2
+- 硬體 (Hardware)
+  - Arduino, LinkIt & C/C++ language - L3
+  - Intel 8051 & Assembly language - L1
+		
+# 領域實務經驗 (Domain knowledge and experience)
+- 在學時期 (Student period)
+  - 低耗藍芽室內定位系統 (Bluetooth low energy with Indoor positioning system)
+  - 三軸感測器室內定位系統 (Phone sensor with Indoor positioning system)
+- 業界時期 (Industry period)
+  - IPv6網路設備技術支援 (Network tech support with IPv6)
+  - 物聯網無線裝置軟硬體開發計畫 (IoT system with wireless HW/SW develop)
+  - 醫療復健AI系統開發 (Physical rehabilitation system with deep learning)
+  - 公司內部系統維護開發 (Company internal system develop and maintenance)
+  - 金融科技交易平台系統 (Trade platform system of FinTech)
