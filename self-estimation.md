@@ -1,9 +1,9 @@
 # 自評等級 (Self-evaluation Level)
 - L1 - 極不熟悉 (Very unfamiliar)
-- L2 - 不太熟悉 (unfamiliar)
+- L2 - 不太熟悉 (Unfamiliar)
 - L3 - 稍有經驗 (Some experience)
-- L4 - 略為熟悉 (familiar)
-- L5 - 相當熟悉 (very familiar)
+- L4 - 略為熟悉 (Familiar)
+- L5 - 相當熟悉 (Very familiar)
 
 # 工作角色 (As a job character)
 - 後端 (Backend) - L5
@@ -85,9 +85,9 @@
     - MongoDB
     - Redis
   - 分散式建置 (Distributed build) 
-    - Mysql - ndb, ndb management, sql api - L2
-    - MongoDB - replica set, cluster
-    - Redis - replication, cluster
+    - Mysql - NDB, NDB Management, SQL API - L2
+    - MongoDB - Replica set, Cluster
+    - Redis - Replication, Cluster
 - 維運 (DevOps, SRE) - L3
   - 知識概念 (Knowledge & Concept)
     - Troubleshooting
@@ -110,8 +110,8 @@
   - 基本知識 (Basic knowledge) L4
     - 修過CCNA課程 (CCNA study)
   - 資安 (Security)
-    - 基礎密碼學 - basic cryptography
-    - 權限控管 - privilege control
+    - 基礎密碼學 - Basic cryptography
+    - 權限控管 - Privilege control
     - 網站滲透測試 - Web penetration test - L2
   - 工具 (Tool)
     - Wireshark - L2
@@ -119,7 +119,7 @@
     - Putty, Bash shell
     - Kali linux - L2
 - 測試 (QA/QC) - L2
-  - 實務經驗 (experience)
+  - 實務經驗 (Experience)
     - 測試報告文件撰寫 (Test report)
     - 商業邏輯案例測試建置 (Business logic case)
     - 系統整合測試 (System integration test) - L3
